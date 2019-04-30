@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1424,"scrollY":813.3333333333334},
-{"id":2,"expanded":true,"name":"Caverne de Pierre","order":2,"parentId":1,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
-{"id":3,"expanded":true,"name":"Caverne de Lave","order":3,"parentId":2,"scrollX":1424,"scrollY":1586.6666666666667},
-{"id":4,"expanded":true,"name":"Caverne maudite","order":4,"parentId":3,"scrollX":1424,"scrollY":813.3333333333334},
-{"id":5,"expanded":false,"name":"Caverne de Glace","order":5,"parentId":4,"scrollX":1424,"scrollY":1106.6666666666667}
-]
