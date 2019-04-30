@@ -6,3 +6,7 @@
 <Version: 3.00>
 /data/MapInfos.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/MapInfos.json
 <End of Version>
+
+<Version: 4.00>
+/icon/icon.png
+<End of Version>
