@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1234.909090909091,"scrollY":1752},
+{"id":2,"expanded":true,"name":"Caverne de Pierre","order":2,"parentId":1,"scrollX":1165.0909090909092,"scrollY":774.5454545454546},
+{"id":3,"expanded":true,"name":"Caverne de Lave","order":3,"parentId":2,"scrollX":1234.909090909091,"scrollY":709.0909090909091},
+{"id":4,"expanded":true,"name":"Caverne maudite","order":4,"parentId":3,"scrollX":1165.0909090909092,"scrollY":1752},
+{"id":5,"expanded":true,"name":"niveau 1","order":5,"parentId":4,"scrollX":1165.0909090909092,"scrollY":1272},
+{"id":6,"expanded":false,"name":"Égout","order":6,"parentId":5,"scrollX":1165.0909090909092,"scrollY":1254.5454545454545}
+]
