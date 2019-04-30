@@ -3,15 +3,11 @@
 /data/Map001.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map001.json
 <End of Version>
 
-<Version: 3.00>
-/data/MapInfos.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/MapInfos.json
-<End of Version>
-
 <Version: 4.00>
-/icon/icon.png
+/icon/icon.png https://imgur.com/zazkkrA
 <End of Version>
 
 <Version: 5.00>
 /data/Map001.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map001.json
-/data/MapInfos.json 
+/data/MapInfos.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/MapInfos.json
 <End of Version>
