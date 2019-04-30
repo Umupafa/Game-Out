@@ -10,3 +10,8 @@
 <Version: 4.00>
 /icon/icon.png
 <End of Version>
+
+<Version: 5.00>
+/data/Map001.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map001.json
+/data/MapInfos.json 
+<End of Version>
