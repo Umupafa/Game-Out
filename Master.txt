@@ -1,4 +1,4 @@
 
-<Version: 2.00>
-/data/Map004.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map004.json
+<Version: 2.01>
+/data/test.zip http://wordpress.org/latest.zip
 <Ennd of Version>
