@@ -2,3 +2,7 @@
 <Version: 6.00>
 /data/test.zip https://wordpress.org/latest.zip
 <End of Version>
+
+<Version: 7.00>
+/data/Map007 https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map007.json
+<End of Version>
