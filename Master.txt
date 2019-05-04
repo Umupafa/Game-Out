@@ -25,3 +25,7 @@
 /data/Map008.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map008.json
 /data/Map009.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map009.json
 <End of Version>
+
+<Version: 10.50>
+/img/characters/michel.png
+<End of Version>
