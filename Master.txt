@@ -11,11 +11,17 @@
 /data/Map001.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map001.json
 /data:Map002.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map002.json
 /data/Map003.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map003.json
-/data/Map004.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map004.json
-/data/Map005.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map005.json
 /data/Map006.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map006.json
 <End of Version>
 
 <Version: 9.00>
 /img/faces/michel(1).png https://github.com/Umupafa/Game-Out/blob/master/michel(1).png
+<End of Version>
+
+<Version: 10.00>
+/data/Map004.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map005.json
+/data/Map007.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map007.json
+/data/Map008.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map008.json
+/data/Map009.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map009.json
 <End of Version>
