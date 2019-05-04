@@ -16,6 +16,6 @@
 /data/Map006.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map006.json
 <End of Version>
 
-<Version: 8.50>
+<Version: 9.00>
 /img/faces/michel(1).png https://github.com/Umupafa/Game-Out/blob/master/michel(1).png
 <End of Version>
