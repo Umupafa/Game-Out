@@ -15,7 +15,7 @@
 <End of Version>
 
 <Version: 9.00>
-/img/faces/michel(1).png https://github.com/Umupafa/Game-Out/blob/master/michel(1).png
+/img/faces/michel(1).png https://imgur.com/3RW0YQI
 <End of Version>
 
 <Version: 10.00>
@@ -27,5 +27,8 @@
 <End of Version>
 
 <Version: 11.00>
-/img/characters/michel.png
+/img/characters/michel.png https://imgur.com/iffztNo
+<End of Version>
+
+<Version: 12.00>
 <End of Version>
