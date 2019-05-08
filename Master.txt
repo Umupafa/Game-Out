@@ -31,4 +31,6 @@
 <End of Version>
 
 <Version: 12.00>
+/data/Map009.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map009.json
+/data/Enemies.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Enemies.json
 <End of Version>
