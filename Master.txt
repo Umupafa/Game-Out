@@ -23,7 +23,6 @@
 /data/Map005.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map005.json
 /data/Map007.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map007.json
 /data/Map008.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map008.json
-/data/Map009.json https://raw.githubusercontent.com/Umupafa/Game-Out/master/Map009.json
 <End of Version>
 
 <Version: 11.00>
